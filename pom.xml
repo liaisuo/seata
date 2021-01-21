@@ -12,5 +12,7 @@
     <modules>
         <module>eureka-server-demo</module>
         <module>seata-order-demo</module>
+        <module>seata-account-demo</module>
+        <module>seata-storage-demo</module>
     </modules>
 </project>
